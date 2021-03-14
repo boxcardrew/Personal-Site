@@ -14,9 +14,7 @@ export default function Subtitle() {
   return (
     <div className="flex">
       <div className="info">
-        <span>
-          <a href="mailto:bray.drew@gmail.com">bray.drew@gmail.com</a>
-        </span>
+        
         <h2>-Front-End Developer</h2>
         <h2>-Design Engineer</h2>
       </div>
