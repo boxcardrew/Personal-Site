@@ -18,14 +18,14 @@ const projects = [
     tags: ["Design", "Logo", "Development"],
     excerpt: "I did everything on this one. Logo, design, development. Built with React and Firbase’s Realtime Database.",
     image: "/c_scale,f_auto,q_auto,w_1390/v1615707968/accruabl_diryj6.jpg",
-    url: "https://accruabl.com"
+    url: "https://budgets-1ec3a.web.app/"
   },
   {
     title: "HeyJunior",
     tags: ["UI/UX Design", "Logo", "Development"],
     excerpt: "This project is currently in development. Built with NextJS, Prisma(PostgreSQL), and Stripe for payment processing.",
     image: "/c_scale,f_auto,q_auto,w_1346/v1615707963/heyjunior_jl3dme.jpg",
-    url: "https://hey-junior.vercel.app/"
+    url: "https://heyjunior.co"
   },
 ]
 

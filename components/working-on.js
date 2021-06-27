@@ -2,7 +2,7 @@ export default function WorkingOn() {
   return (
     <div>
       <p>What kind of stuff do you make??</p>
-      <p>I'm currently working on <a href="https://hey-junior.vercel.app/">HeyJunior</a>. A job site for junior everythings.</p>
+      <p>I'm currently working on <a href="https://heyjunior.co">HeyJunior</a>. A job site for junior everythings.</p>
 
       <style jsx>{`
         div {
