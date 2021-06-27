@@ -16,7 +16,7 @@ export default function Subtitle() {
       <div className="info">
         
         <h2>-Front-End Developer</h2>
-        <h2>-Design Engineer</h2>
+        
       </div>
       <div className="intro">
         <div>
