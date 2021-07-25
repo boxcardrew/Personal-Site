@@ -16,7 +16,7 @@ const projects = [
   {
     title: "accruabl",
     tags: ["Design", "Logo", "Development"],
-    excerpt: "I did everything on this one. Logo, design, development. Built with React and Firbase’s Realtime Database.",
+    excerpt: "I did everything on this one. Logo, design, development. Built with React and Firebase’s Realtime Database.",
     image: "/c_scale,f_auto,q_auto,w_1390/v1615707968/accruabl_diryj6.jpg",
     url: "https://budgets-1ec3a.web.app/"
   },
